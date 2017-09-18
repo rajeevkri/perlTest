@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-# countlines2.pl by Bill Weinman <http://bw.org/contact/>
 
 use 5.18.0;
 use warnings;
